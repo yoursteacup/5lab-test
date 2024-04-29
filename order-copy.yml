@@ -1,0 +1,15 @@
+order:
+  - item: door
+    type: front
+    side: left
+    qty: 2
+  - item: headlight
+    type: left
+    qty: 1
+  - item: headlight
+    type: right
+    qty: 2
+  - item: engine
+    type: gas
+    capacity: 1.6
+    qty: 1
